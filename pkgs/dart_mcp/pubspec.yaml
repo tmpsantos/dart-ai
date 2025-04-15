@@ -3,7 +3,7 @@ description: A package for making MCP servers and clients.
 repository: https://github.com/dart-lang/ai/tree/main/pkgs/dart_mcp
 version: 0.1.0
 environment:
-  sdk: ^3.7.0
+  sdk: ^3.6.1
 dependencies:
   async: ^2.13.0
   collection: ^1.19.1
